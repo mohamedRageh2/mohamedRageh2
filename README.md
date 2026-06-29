@@ -46,4 +46,4 @@ E-commerce platform for an ice cream business built with PHP, MySQL & JavaScript
 #Contact Me
 
 -  [Upwork](https://www.upwork.com/freelancers/~mohamedrageh)
-- 📧 Email: your@email.com
+- 📧 Email: mmahmedgff2004@gmail.com
